@@ -51,7 +51,7 @@ const SectionTwo: React.FC = () => {
         
         {/* Authority / B2B */}
         <GalleryItem 
-          imageSrc="https://ucarecdn.com/1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p/-/format/auto/-/quality/smart/"
+          imageSrc="https://github.com/mstaal1974/Brand-Guide-/blob/main/assets/Veri%20Relaxed.png"
           title="Authority / B2B"
           description="Employer-facing, partnerships, institutional trust"
         />
