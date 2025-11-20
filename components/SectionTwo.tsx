@@ -37,7 +37,7 @@ const SectionTwo: React.FC = () => {
         
         {/* Thought Leader / Vision */}
         <GalleryItem 
-          imageSrc="https://ucarecdn.com/8f1a2b3c-4d5e-6f7g-8h9i-0j1k2l3m4n5o/-/format/auto/-/quality/smart/"
+          imageSrc="https://github.com/mstaal1974/Brand-Guide-/blob/main/assets/Veri%20Thinking.png?raw=true"
           title="Thought Leader / Vision"
           description="Future-of-work trends, strategy, long-term value"
         />
