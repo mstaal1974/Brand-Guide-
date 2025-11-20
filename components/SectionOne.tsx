@@ -22,7 +22,7 @@ const SectionOne: React.FC = () => {
         </div>
         <div className="rounded-[18px] overflow-hidden shadow-2xl transform transition hover:scale-[1.01] duration-500">
           <img 
-            src="https://ucarecdn.com/5d7f8c8f-9e6f-4e8b-9c2a-8f3e1d2c7b9a/-/format/auto/-/quality/smart/" 
+            src="https://github.com/mstaal1974/Brand-Guide-/blob/main/assets/Veri%20Portrait.jpg" 
             alt="Veri Official Portrait" 
             className="w-full h-auto object-cover"
           />
