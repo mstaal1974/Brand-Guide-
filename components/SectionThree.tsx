@@ -72,7 +72,7 @@ const SectionThree: React.FC = () => {
         <SocialPost 
           handle="@microcredentials.io"
           time="1d ago"
-          imageSrc="https://ucarecdn.com/8f1a2b3c-4d5e-6f7g-8h9i-0j1k2l3m4n5o/-/format/auto/-/quality/smart/"
+          imageSrc="https://github.com/mstaal1974/Brand-Guide-/blob/main/assets/stacking.png"
           overlayText={<>Stop collecting titles.<br/>Start building assets.</>}
           caption={
             <p>
