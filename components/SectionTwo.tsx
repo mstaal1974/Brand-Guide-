@@ -30,7 +30,7 @@ const SectionTwo: React.FC = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-9 my-12">
         {/* Welcome / Teaching Pose */}
         <GalleryItem 
-          imageSrc="https://ucarecdn.com/3a1b9e7d-5f2c-4d8e-9b1f-6e7d8c9a1b2e/-/format/auto/-/quality/smart/"
+          imageSrc="https://github.com/mstaal1974/Brand-Guide-/blob/main/assets/Veri%20Teaching.jpg?raw=true"
           title="Welcome / Teaching Pose"
           description="Perfect for introductions, course launches, community posts"
         />
