@@ -44,7 +44,7 @@ const SectionTwo: React.FC = () => {
         
         {/* Approachability / Human Moment */}
         <GalleryItem 
-          imageSrc="https://ucarecdn.com/9g8h7j6k-5l4m-3n2o-1p0q-9r8s7t6u5v4w/-/format/auto/-/quality/smart/"
+          imageSrc="https://github.com/mstaal1974/Brand-Guide-/blob/main/assets/Veri%20Relaxed.png"
           title="Approachability / Human Moment"
           description="Community building, testimonials, behind-the-scenes"
         />
