@@ -56,7 +56,7 @@ const SectionThree: React.FC = () => {
         <SocialPost 
           handle="@microcredentials.io"
           time="3h ago"
-          imageSrc="https://github.com/mstaal1974/Brand-Guide-/blob/main/assets/stacking.png"
+          imageSrc="https://github.com/mstaal1974/Brand-Guide-/blob/main/assets/social%20omage%201.png"
           overlayText={<>Your skills deserve<br/>better than a PDF.</>}
           caption={
             <p>
@@ -88,7 +88,7 @@ const SectionThree: React.FC = () => {
         <SocialPost 
           handle="@microcredentials.io"
           time="2d ago"
-          imageSrc="https://ucarecdn.com/9g8h7j6k-5l4m-3n2o-1p0q-9r8s7t6u5v4w/-/format/auto/-/quality/smart/"
+          imageSrc="https://github.com/mstaal1974/Brand-Guide-/blob/main/assets/social%20omage%201.png"
           overlayText={<>Your career.<br/>Your rules.<br/>Your proof.</>}
           caption={
             <p>
